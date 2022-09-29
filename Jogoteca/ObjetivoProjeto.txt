@@ -1,0 +1,6 @@
+===================== JOGOTECA =====================
+
+- Listar Jogos
+- Cadastrar novos Jogos
+- Fazer login
+- Restringir acesso
